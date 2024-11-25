@@ -10,6 +10,10 @@
 
 ### Peer Review:
 
-**Name**:
+#### **Name**: Santiago Jesus Montanez
 
-**Comments**:
+#### **Comments**:
+
+- Everything works well and as intended.
+- I loved the use of a library for your JS solution to the assignment.
+  - I am going to look it over a few more times to try learning from you.
