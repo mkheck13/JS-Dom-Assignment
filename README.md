@@ -17,3 +17,4 @@
 - Everything works well and as intended.
 - I loved the use of a library for your JS solution to the assignment.
   - I am going to look it over a few more times to try learning from you.
+- Lastly, if you want to further improve your solution try erasing the input fields after the user clicks the vhange color btn
